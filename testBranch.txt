@@ -1,2 +1,7 @@
 this is a file about branchmaster
+<<<<<<< HEAD
 alter context by master...
+=======
+alter context by branch01
+>>>>>>> branch01
+//这里就是要看公司得要求,以及需求来具体取舍了
